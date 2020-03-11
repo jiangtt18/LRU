@@ -21,6 +21,7 @@ public class LRUCache {
            this.linkedList.push(node);
            value = node.getValue();
        }
+        System.out.println("get(" + key + ") returns " + value);
        return value;
     }
 
