@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5562d112-1709-479b-a614-67b4099d957d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

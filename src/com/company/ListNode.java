@@ -16,6 +16,4 @@ public class ListNode {
     public int getValue() {
         return value;
     }
-
-
 }
